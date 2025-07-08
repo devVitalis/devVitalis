@@ -36,7 +36,7 @@ I build Android apps with impact 🚀
 
 <!-- Top Languages (Right Column) -->
 <td valign="top" width="50%">
-  <img src="https://github-readme-stats-kappa-black-89.vercel.app/api/top-langs/?username=devVitalis&layout=donut&theme=default&hide_border=true&langs_count=6&cache_seconds=1800" height="200"/>
+  <img src="https://github-readme-stats-kappa-black-89.vercel.app/api/top-langs/?username=devVitalis&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=1800" height="200"/>
 </td>
 
 </tr>
