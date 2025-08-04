@@ -3,7 +3,7 @@
 <p align="center"><strong style="color:#9370DB;">I'm Benjamin Nnaemeka</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Android+Developer;Backend+Ready+%7C+Real-Time+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Android+Software+Engineer;Backend+Ready+%7C+Real-Time+Builder" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,6 +20,7 @@ I build Android apps with impact 🚀
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="25" height="25"/>
@@ -43,22 +44,6 @@ I build Android apps with impact 🚀
 </tr>
 </table>
 
----
+### 🧠
 
-### 🧠 Quote
-
-> “I don’t just love Java — I build with it, think with it, and create with it.”
-
----
-
-<p align="center">
-  <a href="https://x.com/devvitalis?s=21" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.facebook.com/share/1ASRd85RSu/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:benjamin.nnaemeka.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+> “Clean architecture. Scalable systems. Performance by design.”
