@@ -34,12 +34,12 @@ Driven by **discipline**, **clean architecture**, and a focus on **scalable mobi
 
 <!-- GitHub Stats (Left Column) -->
 <td valign="top" width="50%" align="center">
-  <img src="https://github-readme-stats-kappa-black-89.vercel.app/api?username=devVitalis&show_icons=true&theme=default&hide_border=true&rank_icon=github&count_private=true&cache_seconds=14400"/>
+  <img src="https://github-readme-stats-kappa-black-89.vercel.app/api?username=devVitalis&show_icons=true&theme=default&hide_border=true&rank_icon=github&count_private=true&cache_seconds=1800"/>
 </td>
 
 <!-- Top Languages (Right Column) -->
 <td valign="top" width="50%" align="center">
-  <img src="https://github-readme-stats-kappa-black-89.vercel.app/api/top-langs/?username=devVitalis&layout=compact&theme=default&hide_border=true&langs_count&cache_seconds=14400"/>
+  <img src="https://github-readme-stats-kappa-black-89.vercel.app/api/top-langs/?username=devVitalis&layout=compact&theme=default&hide_border=true&langs_count&cache_seconds=1800"/>
 </td>
 
 </tr>
