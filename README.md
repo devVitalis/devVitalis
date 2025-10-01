@@ -39,7 +39,7 @@ Driven by **discipline**, **clean architecture**, and a focus on **scalable mobi
 
 <!-- Top Languages (Right Column) -->
 <td valign="top" width="50%" align="center">
-  <img src="https://github-readme-stats-kappa-black-89.vercel.app/api/top-langs/?username=devVitalis&layout=compact&theme=default&hide_border=true&langs_count&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-kappa-black-89.vercel.app/api/top-langs/?username=devVitalis&size_weight=0.5&count_weight=0.5&layout=compact&theme=default&hide_border=true&cache_seconds=1800"/>
 </td>
 
 </tr>
